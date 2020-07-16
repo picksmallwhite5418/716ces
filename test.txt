@@ -1,0 +1,17 @@
+这个目录存放的是本地库存放的目录和文件
+git init  初始化数据库
+git  status 看的是暂存区的状态；
+在xx分支上  on branch xxx;
+没有提交  no commits yet;  本地库
+没有什么 暂存区没有东西  （）
+ 工作区 本地仓库的操作
+查看版本信息 git log
+查询别名    git  remote-v
+设置xxx 为仓库的别名   git  remote add xxx+远程地址
+git commit-m +"标记"+文件名称
+git  push+地址 +分支名称（一般先拉取）
+clone 完整的把远程库下载到本地
+ 替我们创建别名 
+初始化本地库
+邀请加团队
+
